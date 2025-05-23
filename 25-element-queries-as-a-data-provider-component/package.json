@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "element-resize-detector": "1.1.14",
+    "element-resize-detector": "1.2.4",
     "portal-vue": "1.3.0",
     "vue": "^2.5.2"
   },
